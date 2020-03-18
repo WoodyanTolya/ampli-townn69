@@ -113,3 +113,50 @@ body {
 }
 
 /* end footer styling */
+
+
+
+.button{
+  width: 200px;
+  background-color: #F0E68C;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+  color: black;
+  transition: transform 1s ease
+}
+
+.button:hover{
+  transform: translateX(100px);
+  }
+
+
+
+  .button2{
+    width: 200px;
+    background-color: #F0E68C;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    color: black;
+    transition: transform 1s ease
+  }
+
+  .button2:hover{
+    transform: translateX(110px);
+    }
+
+
+    .button3{
+      width: 200px;
+      background-color: #F0E68C;
+      text-align: center;
+      padding: 20px;
+      border-radius: 5px;
+      color: black;
+      transition: transform 1s ease
+    }
+
+    .button3:hover{
+      transform: translateX(100px);
+      }
